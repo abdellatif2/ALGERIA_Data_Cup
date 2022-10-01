@@ -1,5 +1,5 @@
 # ALGERIA Data Cup by Temtem One Purchase Prediction Challenge by Industrial Engineers Club
- My Team Solution to UmojaHack Algeria: Yassir ETA Prediction Challenge
+ My Team Solution to ALGERIA Data Cup by Temtem One Purchase Prediction Challenge by Industrial Engineers Club
  
 Many shopping apps rely on customer retention to predict their earnings, design their marketing strategy and drive their business. Temtem One Shopping app is no different.
 
